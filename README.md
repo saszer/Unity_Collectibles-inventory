@@ -5,6 +5,6 @@ https://github.com/saszer/Unity_Collectibles-inventory/blob/e739ca2575ecddf77e92
 
 ![Alt Text](https://github.com/saszer/Unity---Collectibles-inventory/blob/main/collectibles.gif)
 
-v2: Save in player pref , added opened check (aside from unlocked) ,  commit on top v1
+v2: Save in player pref , added opened check (aside from unlocked) ,  commit on top v1, current v1 folder ^^
 
 v3: v2 + cross scene compatibility
