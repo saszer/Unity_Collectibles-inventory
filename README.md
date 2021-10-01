@@ -9,5 +9,5 @@ https://github.com/saszer/Unity_Collectibles-inventory/blob/e739ca2575ecddf77e92
 
 v2: Save in player pref , added opened check (aside from unlocked) ,  commit on top v1, current v1 folder ^^
 
-v3: v2 + cross scene compatibility + events on picked upped, unlocked, checked out etc + audio. (for cross scene define collectible name on icon and object as same)
+v3: v2 + cross scene compatibility + events on picked upped, unlocked, checked out etc + audio. (for cross scene define collectible name in inspector properties on icon and object as same)
 ![Alt Text](https://github.com/saszer/Unity_Collectibles-inventory/blob/main/collectiblesv3.gif)
