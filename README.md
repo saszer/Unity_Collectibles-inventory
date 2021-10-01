@@ -1,5 +1,5 @@
 # Unity - Collectibles inventory
- 
+ z
 v1: BASE : no save feature, placeholder to implemented cloud save/player pref etc, in collectiblesmanager.cs , branch off inventory  basic commit for this. 
 https://github.com/saszer/Unity_Collectibles-inventory/blob/e739ca2575ecddf77e9289abdc293642a775e0ee/Assets/Collectibles-BASE/CollectibleManager.cs 
 
@@ -7,4 +7,5 @@ https://github.com/saszer/Unity_Collectibles-inventory/blob/e739ca2575ecddf77e92
 
 v2: Save in player pref , added opened check (aside from unlocked) ,  commit on top v1, current v1 folder ^^
 
-v3: v2 + cross scene compatibility
+v3: v2 + cross scene compatibility + events on picked upped, unlocked, checked out etc + audio. (for cross scene define collectible name on icon and object as same)
+![Alt Text](https://github.com/saszer/Unity_Collectibles-inventory/blob/main/collectiblesv3.gif)
