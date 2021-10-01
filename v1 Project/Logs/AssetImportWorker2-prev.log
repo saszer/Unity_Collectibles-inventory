@@ -1,0 +1,446 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22458.1000; Version 2009; 64bit' Language: 'en' Physical Memory: 32160 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\0Softs\Unity\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/AJSS/BitBucket/feature inventory pouch/My project/Unity---Collectibles-inventory
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59531
+Successfully changed project path to: D:/AJSS/BitBucket/feature inventory pouch/My project/Unity---Collectibles-inventory
+D:/AJSS/BitBucket/feature inventory pouch/My project/Unity---Collectibles-inventory
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path D:/0Softs/Unity/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/AJSS/BitBucket/feature inventory pouch/My project/Unity---Collectibles-inventory/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 Laptop GPU (ID=0x249c)
+    Vendor:   
+    VRAM:     16202 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'D:/0Softs/Unity/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'D:/0Softs/Unity/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/0Softs/Unity/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/0Softs/Unity/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/0Softs/Unity/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001378 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 39.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.253 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3253ms)
+		BeginReloadAssembly (51ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (322ms)
+			LoadAssemblies (50ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (106ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (144ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (67ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005183 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Domain Reload Profiling:
+	ReloadAssembly (975ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (804ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (254ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (339ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (230ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2738 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.2 MB.
+System memory in use after: 127.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3177.
+Total: 3.178700 ms (FindLiveObjects: 0.313200 ms CreateObjectMapping: 0.072100 ms MarkObjects: 2.711000 ms  DeleteObjects: 0.081000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Collectibles-BASE/Prefabs/Example.prefab
+  artifactKey: Guid(3903f47eb5405f044a113c5464dcc893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Prefabs/Example.prefab using Guid(3903f47eb5405f044a113c5464dcc893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba75460cfbee6b09fb255f4d40091e1c') in 0.249504 seconds 
+  Import took 0.254002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Collectibles-BASE/Prefabs/Item.prefab
+  artifactKey: Guid(9ec452f0037f2de47ba42a99006f1f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Prefabs/Item.prefab using Guid(9ec452f0037f2de47ba42a99006f1f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2862313e5bb9edcde3bbffb7f6f64c') in 0.009287 seconds 
+  Import took 0.013418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Collectibles-BASE/Prefabs/ItemIcon.prefab
+  artifactKey: Guid(de0e876bddb54c142a3cdf8d8350143d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Prefabs/ItemIcon.prefab using Guid(de0e876bddb54c142a3cdf8d8350143d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4b4a4c1664e471546d3bbcc82be1b6') in 0.024218 seconds 
+  Import took 0.028998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/UI-Effect-Shiny.mat
+  artifactKey: Guid(2d37c4afca8784ce9ab899810e29aa9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/UI-Effect-Shiny.mat using Guid(2d37c4afca8784ce9ab899810e29aa9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03f57309cd33f29ebe163603f6fb30e') in 0.036161 seconds 
+  Import took 0.040163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 789.160647 seconds.
+  path: Assets/New Render Texture.renderTexture
+  artifactKey: Guid(2f837b12a20842e429ae0cc3821d45e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Render Texture.renderTexture using Guid(2f837b12a20842e429ae0cc3821d45e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ffa36b3749715059c9e8659d56894f') in 0.019332 seconds 
+  Import took 0.024578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004713 seconds.
+  path: Assets/DoTweenMover_sz.cs
+  artifactKey: Guid(d785d2aaba3adfb438e24d5432be8978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DoTweenMover_sz.cs using Guid(d785d2aaba3adfb438e24d5432be8978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838a9dcd703fa960be8e2483017d7d67') in 0.015732 seconds 
+  Import took 0.020987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004461 seconds.
+  path: Assets/Collectibles-BASE/Icon/exclamation_mark_icon_qxxyxc.png
+  artifactKey: Guid(9a304581ff9db774cbcbaa5d90b28c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Icon/exclamation_mark_icon_qxxyxc.png using Guid(9a304581ff9db774cbcbaa5d90b28c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93396f8b7c9a1493e4572aff6166175') in 0.074924 seconds 
+  Import took 0.079518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004239 seconds.
+  path: Assets/Collectibles-BASE/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12477204b055be2ef1ae6d573ce96088') in 0.002551 seconds 
+  Import took 0.007193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003680 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c487be5914d8570ce0528a7988a72374') in 0.004202 seconds 
+  Import took 0.008568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003027 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf1ae6f0144c57c629841126a314c0a') in 0.022442 seconds 
+  Import took 0.027121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008270 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/DOTween.dll
+  artifactKey: Guid(a811bde74b26b53498b4f6d872b09b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/DOTween.dll using Guid(a811bde74b26b53498b4f6d872b09b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfe9a63ca0896e6339e41b6449c2bdb') in 0.010016 seconds 
+  Import took 0.014475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003553 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs
+  artifactKey: Guid(63c02322328255542995bd02b47b0457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs using Guid(63c02322328255542995bd02b47b0457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b2827720ff4688eb098f0e57b786e6') in 0.002365 seconds 
+  Import took 0.006077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003170 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+  artifactKey: Guid(dae9aa560b4242648a3affa2bfabc365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs using Guid(dae9aa560b4242648a3affa2bfabc365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc20701615500b86f7adcc0ba0f7c4fe') in 0.002240 seconds 
+  Import took 0.006050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003977 seconds.
+  path: Assets/PlayerPrefsEditor/Editor/Mac/Plist.cs
+  artifactKey: Guid(69fd4b81f600d46008cd7a0740a37348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerPrefsEditor/Editor/Mac/Plist.cs using Guid(69fd4b81f600d46008cd7a0740a37348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff349ce5bcbce0e267522ac8d826e3f') in 0.002496 seconds 
+  Import took 0.006503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003415 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs
+  artifactKey: Guid(a060394c03331a64392db53a10e7f2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs using Guid(a060394c03331a64392db53a10e7f2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2cb3d6e90f3b5179067399f48730c5') in 0.002560 seconds 
+  Import took 0.006633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003134 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/LICENSE.txt
+  artifactKey: Guid(5c8ea34522dd786479be28b1347542b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/LICENSE.txt using Guid(5c8ea34522dd786479be28b1347542b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0496073fdfbd483b43c50e4de570c50') in 0.034115 seconds 
+  Import took 0.038384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003288 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs
+  artifactKey: Guid(e944529dcaee98f4e9498d80e541d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs using Guid(e944529dcaee98f4e9498d80e541d93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd843afff9e226e239a413d54f90891c') in 0.002650 seconds 
+  Import took 0.007012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004816 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/shined.anim
+  artifactKey: Guid(2bb6f425a0103f24fa5d7e711d96b8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/shined.anim using Guid(2bb6f425a0103f24fa5d7e711d96b8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df14140e252ab79d4e88f6570539e0e2') in 0.005947 seconds 
+  Import took 0.010244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003438 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs
+  artifactKey: Guid(230fe34542e175245ba74b4659dae700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs using Guid(230fe34542e175245ba74b4659dae700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a09cc162061e2c04adc894bbf201b7c') in 0.002414 seconds 
+  Import took 0.006647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003246 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs
+  artifactKey: Guid(188918ab119d93148aa0de59ccf5286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs using Guid(188918ab119d93148aa0de59ccf5286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4765225c9ea106923de23d489563f91f') in 0.002384 seconds 
+  Import took 0.006303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007169 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/CHANGELOG.md
+  artifactKey: Guid(1fe75f65a37454bf5aa2dab183b4305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/CHANGELOG.md using Guid(1fe75f65a37454bf5aa2dab183b4305a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07fd4aa2e26c90eb9c0b7650404c711c') in 0.004823 seconds 
+  Import took 0.009239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005437 seconds.
+  path: Assets/PlayerPrefsEditor/Editor/PlayerPrefsEditor.cs
+  artifactKey: Guid(861677afe8cab4d3299ebf446fd71db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerPrefsEditor/Editor/PlayerPrefsEditor.cs using Guid(861677afe8cab4d3299ebf446fd71db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e4c1e8008299b3f33af72d3b60f8e9') in 0.002606 seconds 
+  Import took 0.006980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003625 seconds.
+  path: Assets/PlayerPrefsEditor/SimpleEncryption.cs
+  artifactKey: Guid(d971fdbb122d948b3a6d6ca2b852eeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerPrefsEditor/SimpleEncryption.cs using Guid(d971fdbb122d948b3a6d6ca2b852eeaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87baebb894c81ef3d8f004a8b57f033') in 0.002582 seconds 
+  Import took 0.006950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003943 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/shined.controller
+  artifactKey: Guid(7e2286c3f8fbdb34fb61c7bfbd02cadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/shined.controller using Guid(7e2286c3f8fbdb34fb61c7bfbd02cadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fca581b10cbc37c49d1a924877889f3') in 0.005665 seconds 
+  Import took 0.009935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003519 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll
+  artifactKey: Guid(45d5034162d6cf04dbe46da84fc7d074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll using Guid(45d5034162d6cf04dbe46da84fc7d074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a5a8e8b26268d33e8b98768a27d445') in 0.002489 seconds 
+  Import took 0.006718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003300 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs
+  artifactKey: Guid(b766d08851589514b97afb23c6f30a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs using Guid(b766d08851589514b97afb23c6f30a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e784fd578247d8ed2e1dd75a6327fe63') in 0.002402 seconds 
+  Import took 0.006414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006532 seconds.
+  path: Assets/Collectibles-BASE/IconOpenedCheck.cs
+  artifactKey: Guid(79f05fef780270e40aa7fa9e6dbccef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/IconOpenedCheck.cs using Guid(79f05fef780270e40aa7fa9e6dbccef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c2766ea8265a107331c9e170dc6665') in 0.002151 seconds 
+  Import took 0.006064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003254 seconds.
+  path: Assets/PlayerPrefsEditor/PlayerPrefsUtility.cs
+  artifactKey: Guid(4cf5395079e6249f1b6c0ba93c4b41ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerPrefsEditor/PlayerPrefsUtility.cs using Guid(4cf5395079e6249f1b6c0ba93c4b41ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ccece938e727949ad8b0306a5f19c6') in 0.002502 seconds 
+  Import took 0.006945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003635 seconds.
+  path: Assets/Collectibles-BASE/Item.cs
+  artifactKey: Guid(e01edb443c77a324cba4bee3063427b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Item.cs using Guid(e01edb443c77a324cba4bee3063427b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f9576015e17ee367335fc75711fc92') in 0.002200 seconds 
+  Import took 0.006393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010427 seconds.
+  path: Assets/Collectibles-BASE/Icon/6837252.png
+  artifactKey: Guid(36269364f9e96f240befd7eac8d181da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Icon/6837252.png using Guid(36269364f9e96f240befd7eac8d181da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57bbe208f77c3c1a1de5fc2624fada0') in 0.015807 seconds 
+  Import took 0.020175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007961 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b79362031bbf649ad216b3d4241175f') in 0.005229 seconds 
+  Import took 0.009556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003881 seconds.
+  path: Assets/Collectibles-BASE/CollectibleManager.cs
+  artifactKey: Guid(a25bf4f2589a32d4cacc02208d5a12a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/CollectibleManager.cs using Guid(a25bf4f2589a32d4cacc02208d5a12a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c671a61aaa5a3aa248939abf78660dc') in 0.002112 seconds 
+  Import took 0.006203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003199 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/README.md
+  artifactKey: Guid(ddc08462bf3e14c82929e462ff7823e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/README.md using Guid(ddc08462bf3e14c82929e462ff7823e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e511366c32203918e4636ecf0b5fe1') in 0.002525 seconds 
+  Import took 0.007172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003897 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs
+  artifactKey: Guid(7bcaf917d9cf5b84090421a5a2abe42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs using Guid(7bcaf917d9cf5b84090421a5a2abe42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8abbc7c8a9c2e679150d18a09d6d44') in 0.002594 seconds 
+  Import took 0.007072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003466 seconds.
+  path: Assets/Collectibles-BASE/EventOnradonRange.cs
+  artifactKey: Guid(0e895647a8470ec4fb84b15c8bcfac79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/EventOnradonRange.cs using Guid(0e895647a8470ec4fb84b15c8bcfac79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80908c2fe39e21c6b3b6e0fe958df4b8') in 0.002702 seconds 
+  Import took 0.007514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003269 seconds.
+  path: Assets/Collectibles-BASE/ShinyEffectForUGUI/UI-Effect-Shiny.shader
+  artifactKey: Guid(73cd3247d1e984561a84a1269a5942a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/ShinyEffectForUGUI/UI-Effect-Shiny.shader using Guid(73cd3247d1e984561a84a1269a5942a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d954fdc5636b977fb46d62274446c64') in 0.002518 seconds 
+  Import took 0.007170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004664 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c248232b4951be8cb625a5cfe202d9c') in 0.031365 seconds 
+  Import took 0.036063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009367 seconds.
+  path: Assets/Collectibles-BASE/Icon/circle.png
+  artifactKey: Guid(1fdbf44438666104884cf69fe210f7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Collectibles-BASE/Icon/circle.png using Guid(1fdbf44438666104884cf69fe210f7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a183c487fc28772aee4d2e4d7513fb6e') in 0.013064 seconds 
+  Import took 0.017448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004237 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3840791bd018cf8e1e8775f80916817e') in 0.027459 seconds 
+  Import took 0.031904 seconds .
+
